@@ -78,17 +78,36 @@ class Ui_MainWindow(object):
         self.fix_label.setText(_translate("MainWindow", "NÁZEV:"))
 
 # Add measurement
-class OpenWindowAddMeas:
-    def OpenFile(OpenFile):
+class OpenWindowAddMeas(list):
+    def __init__(self):
+        # list of points from measurement
+        pass
+
+    def AddMeasurement(self):
+        # add to list
+        pass
+
+    @staticmethod
+    def _ReadFile(OpenFile):
+        #read measurement from text file
+        pass
+
+# Database
+class Database:
+    def __init__(self):
         pass
 
 # Choose action of measurement
+# min. priority
 
 # Graph
 
+
 # Export
 
+
 # Coordinates
+
 
 # Run App
 if __name__ == "__main__":
