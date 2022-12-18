@@ -5,6 +5,7 @@
 
 # Library of functions
 from PyQt5 import QtCore, QtGui, QtWidgets
+import sys
 
 # Graphics
 class Ui_MainWindow(object):
@@ -88,3 +89,12 @@ class OpenWindowAddMeas:
 # Export
 
 # Coordinates
+
+# Run App
+if __name__ == "__main__":
+    app = QtWidgets.QApplication(sys.argv)
+    window = QtWidgets.QMainWindow()
+    ui = Ui_MainWindow()
+    ui.setupUi(window)
+    window.show()
+    sys.exit(app.exec_())
