@@ -1,0 +1,45 @@
+For M5|Adr     1|TO  ni220305.dat               |                      |                      |                      | 
+For M5|Adr     2|TO  Pocatek poradu     ZV   KO1|                      |                      |                      | 
+For M5|Adr     3|KD1       F2                KO1|                      |                      |Z        10.00000 m   | 
+For M5|Adr     4|KD1       F2      17.0 C  3 KO1|Rb        0.90644 m   |HD         21.893 m   |                      | 
+For M5|Adr     5|TO  Vlozene zamery          KO1|                      |                      |                      | 
+For M5|Adr     6|KD1       F4      17.0 C  3 KO1|Rz        0.62702 m   |HD         10.324 m   |Z        10.27942 m   | 
+For M5|Adr     7|TO  Konec vlozenych zamer   KO1|                      |                      |                      | 
+For M5|Adr     8|KD1      PR1      16.0 C  3 KO1|Rf        2.88908 m   |HD         20.476 m   |                      | 
+For M5|Adr     9|KD1      PR1      16.0 C    KO1|                      |                      |Z         8.01736 m   | 
+For M5|Adr    10|KD1      PR1      16.0 C  3 KO1|Rb        0.26139 m   |HD         13.326 m   |                      | 
+For M5|Adr    11|TO  Vlozene zamery          KO1|                      |                      |                      | 
+For M5|Adr    12|KD1      B01      16.0 C  3 KO1|Rz        0.29833 m   |HD         12.213 m   |Z         7.98042 m   | 
+For M5|Adr    13|KD1      B02      16.0 C  3 KO1|Rz        1.54166 m   |HD          1.670 m   |Z         6.73709 m   | 
+For M5|Adr    14|KD1      B03      16.0 C  3 KO1|Rz        1.68881 m   |HD          2.428 m   |Z         6.58994 m   | 
+For M5|Adr    15|KD1      B04      15.0 C  3 KO1|Rz        2.47357 m   |HD          9.481 m   |Z         5.80518 m   | 
+For M5|Adr    16|KD1      B05      15.0 C  3 KO1|Rz        2.62161 m   |HD         11.265 m   |Z         5.65714 m   | 
+For M5|Adr    17|TO  Konec vlozenych zamer   KO1|                      |                      |                      | 
+For M5|Adr    18|KD1      PR2      15.0 C  3 KO1|Rf        2.62164 m   |HD         11.260 m   |                      | 
+For M5|Adr    19|KD1      PR2      15.0 C    KO1|                      |                      |Z         5.65711 m   | 
+For M5|Adr    20|KD1      PR2      14.0 C  3 KO1|Rb        1.25717 m   |HD          4.833 m   |                      | 
+For M5|Adr    21|TO  Vlozene zamery          KO1|                      |                      |                      | 
+For M5|Adr    22|KD1      B06      14.0 C  3 KO1|Rz        1.81581 m   |HD          9.905 m   |Z         5.09847 m   | 
+For M5|Adr    23|KD1      B07      14.0 C  3 KO1|Rz        1.94023 m   |HD         11.067 m   |Z         4.97405 m   | 
+For M5|Adr    24|KD1       F5      14.0 C  3 KO1|Rz        2.53224 m   |HD         18.678 m   |Z         4.38204 m   | 
+For M5|Adr    25|TO  Konec vlozenych zamer   KO1|                      |                      |                      | 
+For M5|Adr    26|KD1      PR3      14.0 C  3 KO1|Rf        1.94029 m   |HD         11.064 m   |                      | 
+For M5|Adr    27|KD1      PR3      14.0 C    KO1|                      |                      |Z         4.97399 m   | 
+For M5|Adr    28|KD1      PR3      13.0 C  3 KO1|Rb        1.09233 m   |HD          3.811 m   |                      | 
+For M5|Adr    29|TO  Vlozene zamery          KO1|                      |                      |                      | 
+For M5|Adr    30|KD1      B08      13.0 C  3 KO1|Rz        2.46022 m   |HD          9.117 m   |Z         3.60610 m   | 
+For M5|Adr    31|TO  Konec vlozenych zamer   KO1|                      |                      |                      | 
+For M5|Adr    32|KD1      PR4      13.0 C  3 KO1|Rf        0.40949 m   |HD          9.851 m   |                      | 
+For M5|Adr    33|KD1      PR4      13.0 C    KO1|                      |                      |Z         5.65683 m   | 
+For M5|Adr    34|KD1      PR4      13.0 C  3 KO1|Rb        2.71081 m   |HD         12.420 m   |                      | 
+For M5|Adr    35|KD1      PR5      13.0 C  3 KO1|Rf        0.35030 m   |HD         12.170 m   |                      | 
+For M5|Adr    36|KD1      PR5      13.0 C    KO1|                      |                      |Z         8.01734 m   | 
+For M5|Adr    37|KD1      PR5      12.0 C  3 KO1|Rb        2.94573 m   |HD         20.313 m   |                      | 
+For M5|Adr    38|TO  Vlozene zamery          KO1|                      |                      |                      | 
+For M5|Adr    39|KD1       F4      12.0 C  3 KO1|Rz        0.68345 m   |HD         10.472 m   |Z        10.27962 m   | 
+For M5|Adr    40|TO  Konec vlozenych zamer   KO1|                      |                      |                      | 
+For M5|Adr    41|KD1       F2      12.0 C  3 KO1|Rf        0.96294 m   |HD         21.714 m   |                      | 
+For M5|Adr    42|KD1       F2      12.0 C    KO1|                      |                      |Z        10.00013 m   | 
+For M5|Adr    43|KD1       F2                KO1|Sh        0.00013 m   |dz       -0.00013 m   |Z        10.00000 m   | 
+For M5|Adr    44|KD2       F2        6       KO1|Db          76.60 m   |Df          86.53 m   |Z        10.00013 m   | 
+For M5|Adr    45|TO  Konec poradu            KO1|                      |                      |                      | 
