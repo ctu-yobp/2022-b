@@ -3,9 +3,9 @@ import os
 import random
 points = []
 
-class TrimbleParser(QFileDialog):
+class TrimbleParser:
     def OpenFile(self):
-        name = QFileDialog.getOpenFileName(self, "Open Measurement", os.getenv('HOME'), "(*.DAT)")
+        name = QFileDialog.getOpenFileName(None, "Open Measurement", os.getenv('HOME'), "(*.DAT)")
         with open(name[0], 'r') as MeasFile:
             addmeasfile = MeasFile.readlines()
         for line in addmeasfile:
