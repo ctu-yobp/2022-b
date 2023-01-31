@@ -1,18 +1,19 @@
 from PyQt5.QtWidgets import *
 import os
-import random
-points = []
 
-class TrimbleParser:
+
+class TrimbleParser():
     def OpenFile(self):
+        points = []
         name = QFileDialog.getOpenFileName(None, "Open Measurement", os.getenv('HOME'), "(*.DAT)")
-        with open(name[0], 'r') as MeasFile:
-            addmeasfile = MeasFile.readlines()
-        for line in addmeasfile:
-            if line.find('|Rz') != -1:
-                meas = self.getMeas(line)
-                self.addPoint(points, {'id': meas['id'], 'altitude': meas['altitude']})
-        return points
+        if name:
+            with open(name[0], 'r') as MeasFile:
+                addmeasfile = MeasFile.readlines()
+            for line in addmeasfile:
+                if line.find('|Rz') != -1:
+                    meas = self.getMeas(line)
+                    self.addPoint(points, {'id': meas['id'], 'altitude': meas['altitude']})
+            return points
 
     def getMeas(self, line):
         data = line.split('|')
